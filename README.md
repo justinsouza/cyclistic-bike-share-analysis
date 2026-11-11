@@ -23,3 +23,5 @@ This repository contains the SQL queries and Excel analysis used to investigate 
 **Full Case Study:** [Read the Cyclistic Analysis](https://docs.google.com/document/d/1je_2j-DfNpuSb0EMWsIJIVhp-3NwuM_HaKp2_A5hoG8/edit?usp=sharing)
 
 **Tableau Dashboard:** https://public.tableau.com/app/profile/justin.souza/viz/CyclisticBike-ShareAnalysis2019/Dashboard1
+
+**Presentation:** [View Cyclistic Analysis Presentation](https://docs.google.com/presentation/d/1psJRDLlqvg04MPIwI8HVL5PLBtdL8D8wEbddO9RPFkE/edit?usp=sharing)
